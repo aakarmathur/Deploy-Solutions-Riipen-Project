@@ -5,11 +5,12 @@ Objectives - Recommend a set of actions that ordinary citizens can take to avoid
 
 
 
-Organization: Deploy Solutions
-              \n Ottawa, Ontario, Canada
+Organization: 
+  Deploy Solutions
+  Ottawa, Ontario, Canada
 
-Nicholas Kellett
-Founder & CEO
+  Nicholas Kellett
+  Founder & CEO
 
 
 University - University at Albany, State Univerity of New York.
