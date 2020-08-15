@@ -14,7 +14,7 @@ Organization:
 
 University: 
 
--> University at Albany, State Univerity of New York.
+-> University at Albany, State University of New York.
 
 Team:
 
