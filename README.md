@@ -6,27 +6,27 @@ Objectives - Recommend a set of actions that ordinary citizens can take to avoid
 
 Organization:
 
-Deploy Solutions
+- Deploy Solutions
 
-Ottawa, Ontario, Canada
+-> Ottawa, Ontario, Canada
 
-Nicholas Kellett
+- Nicholas Kellett
 
-Founder & CEO
+- Founder & CEO
 
 
 University - University at Albany, State Univerity of New York.
 
 Team:
 
-Aakar Mathur
+- Aakar Mathur
 
-Kalpita Dapkekar
+- Kalpita Dapkekar
 
-Eian Stern
+- Eian Stern
 
-Austin Kim
+- Austin Kim
 
-Haiying Man
+- Haiying Man
 
-Peter Petrillo
+- Peter Petrillo
